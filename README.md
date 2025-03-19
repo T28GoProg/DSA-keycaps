@@ -1,6 +1,8 @@
 # DSA-keycaps
 -------------
 This repository contains 3D models of keycaps in DSA profile in the step and stl format. we provide doubleshot and dye keycaps model. The 3d model create by FreeCAD Version 0.21.1.
+1u keycap:
+![image]()
 
 # Row profile of Keys DSA keycaps
 ![image]()
@@ -51,3 +53,7 @@ Facing challenge using FreeCAD to create 3D model
 ---------
 FreeCAD is base on OCCT. OCCT have Bugs, such as Fillet problem, Blend, Boolean, etc. it causes computing failures.  
 ![image]()
+
+References:
+-------------
+![image](https://github.com/T28GoProg/DSA-keycaps/blob/main/DSA%20profile.png)
