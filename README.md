@@ -5,16 +5,19 @@ This repository contains 3D models of keycaps in DSA profile in the step and stl
 ![image]()
 
 # Row profile of Keys DSA keycaps
-![image]()
+![image](https://github.com/T28GoProg/DSA-keycaps/blob/main/Photo/DSA_profile.png)
 ![image]()
 
 Doubleshot Keycaps
----------
+------------
 the thickness of the doubleshot shell 1mm, inside is 0.5mm.
-![image]()
+* shell 1 (mm)
+* ![image]()
+* inside 0.5(mm)
+* ![image]()
 
 Dye keycaps
----------
+----------------------
 the thickness of the dye keycaps is 1.5mm.
 ![image]()
 
@@ -25,19 +28,7 @@ Spacebar Sizes:
 Available Keycap Legends Per Row:
 ------------------------------------------
 Row 1:
-![image]()
-
-Row 2:
-![image]()
-
-Row 3:
-![image]()
-
-Row 4:
-![image]()
-
-Row 5:
-![image]()
+![image](https://github.com/T28GoProg/DSA-keycaps/blob/main/Photo/DSA_profile.png)
 
 3D model Updates:
 ---------------------
